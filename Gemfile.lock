@@ -165,7 +165,7 @@ GEM
     regexp_parser (2.6.2)
     rexml (3.2.5)
     rouge (4.1.0)
-    rubocop (1.13.0)
+   rubocop (1.13.25)
       parallel (~> 1.10)
       parser (>= 3.0.0.0)
       rainbow (>= 2.2.2, < 4.0)
@@ -187,7 +187,8 @@ GEM
       activesupport (>= 4.2.0)
       rack (>= 1.1)
       rubocop (>= 0.87.0)
-    ruby-progressbar (1.11.0)
+     
+  ruby-progressbar (1.11.0)
     ruby2_keywords (0.0.5)
     semantic_range (3.0.0)
     simplecov (0.21.2)
@@ -266,7 +267,7 @@ DEPENDENCIES
   rack-cors
   railties (= 7.0.3)
   rake (~> 13.0)
-  rubocop (= 1.13.0)
+  rubocop (= 1.13.25)
   rubocop-github (~> 0.16.0)
   rubocop-performance (~> 1.7)
   simplecov (~> 0.21.2)
