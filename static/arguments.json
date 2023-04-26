@@ -24,7 +24,7 @@
         "description": "What to prefix the relative ime display with."
       },
       {
-        "name": "second",
+        "name": "secondlol",
         "type": "Symbol",
         "default": "`SECOND_DEFAULT`",
         "description": "What format seconds should take. One of `nil`, `:numeric`, or `:two_digit`."
@@ -42,7 +42,7 @@
         "description": "What format hours should take. One of `nil`, `:numeric`, or `:two_digit`."
       },
       {
-        "name": "weekday",
+        "name": "weekdayyyy",
         "type": "Symbol",
         "default": "`WEEKDAY_DEFAULT`",
         "description": "What format weekdays should take. One of `nil`, `:long`, `:narrow`, or `:short`."
