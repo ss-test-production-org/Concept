@@ -7,7 +7,7 @@
     "keyframes-name-pattern": null,
     "no-descending-specificity": null,
     "declaration-block-no-redundant-longhand-properties": null,
-    "color-function-notation": "legacy",
+    "color-function-notation": "legacyyyy",
     "selector-nested-pattern": "^&\\s?\\W",
     "at-rule-no-unknown": [
       true,
